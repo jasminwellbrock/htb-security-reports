@@ -2,12 +2,13 @@
 
 A collection of professional security reports based on retired [Hack The Box](https://www.hackthebox.com/) Sherlocks and Machines.
 
-The purpose of this repository is to document practical cybersecurity work and demonstrate skills in security investigation, vulnerability assessment, penetration testing, and technical reporting.
+This repository documents practical cybersecurity work and demonstrates skills in security investigation, digital forensics, vulnerability assessment, penetration testing, and technical security reporting.
 
 ## Areas of Practice
 
 * Security Investigation & Incident Analysis
 * Digital Forensics & Log Analysis
+* Phishing & Email Analysis
 * Vulnerability Assessment
 * Penetration Testing
 * Enumeration & Exploitation
@@ -17,15 +18,15 @@ The purpose of this repository is to document practical cybersecurity work and d
 
 ## Sherlocks
 
-Sherlock reports focus on security investigations and incident analysis, including the identification and analysis of suspicious activity, evidence, indicators of compromise, attack timelines, and root causes.
+Security investigation and DFIR reports based on retired Hack The Box Sherlocks.
 
-| Sherlock      | Focus                         | Report |
-| ------------- | ----------------------------- | ------ |
-| *Coming soon* | Security Investigation / DFIR | —      |
+| Sherlock           | Focus                                                        | Report                                                              |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **Phishing_Email** | Phishing Analysis · Email Forensics · Incident Investigation | [View Report](./sherlocks/Phishing_Email/Phishing_Email_report.pdf) |
 
 ## Machines
 
-Machine reports document practical penetration testing activities, from reconnaissance and enumeration through exploitation and privilege escalation.
+Penetration testing and vulnerability assessment reports based on retired Hack The Box Machines.
 
 | Machine       | Platform | Focus               | Report |
 | ------------- | -------- | ------------------- | ------ |
@@ -33,7 +34,7 @@ Machine reports document practical penetration testing activities, from reconnai
 
 ## Reporting Approach
 
-Reports are structured to demonstrate not only technical findings, but also the ability to communicate security issues clearly and professionally.
+Reports are structured to demonstrate both technical analysis and professional security documentation.
 
 Depending on the scenario, reports may include:
 
@@ -53,7 +54,7 @@ Depending on the scenario, reports may include:
 
 This repository is part of my practical cybersecurity portfolio and complements my hands-on learning through Hack The Box.
 
-The reports are based on **retired Hack The Box content** and are intended for educational and professional portfolio purposes.
+All reports are based on **retired Hack The Box content** and are published for educational and professional portfolio purposes.
 
 ---
 
