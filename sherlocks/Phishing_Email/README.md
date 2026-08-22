@@ -4,19 +4,30 @@ Security investigation report for the retired Hack The Box Sherlock **Phishing_E
 
 ## Overview
 
-This report documents the investigation of a suspected phishing email, including email header analysis, identification of suspicious infrastructure, evidence analysis, timeline reconstruction, and root cause analysis.
+This report documents the investigation of a suspected phishing email. The analysis covers email header examination, identification of suspicious infrastructure, evidence analysis, indicator identification, timeline reconstruction, and root cause analysis.
 
 ## Skills Demonstrated
 
-- Phishing Email Analysis
-- Email Header Analysis
-- Digital Forensics
-- Incident Investigation
-- IOC Identification
-- Timeline Reconstruction
-- Root Cause Analysis
-- Technical Security Reporting
+* Phishing Email Analysis
+* Email Header Analysis
+* Digital Forensics
+* Incident Investigation
+* Evidence Analysis
+* IOC Identification
+* Timeline Reconstruction
+* Root Cause Analysis
+* Technical Security Reporting
 
 ## Report
 
-The full report is available in the PDF included in this directory.
+**[View the Full Security Report](./Phishing_Email_report.pdf)**
+
+The report contains the complete technical analysis, findings, evidence, timeline, and recommendations.
+
+---
+
+**Platform:** Hack The Box
+**Type:** Sherlock
+**Status:** Retired
+**Focus:** DFIR · Phishing Analysis · Incident Investigation
+
