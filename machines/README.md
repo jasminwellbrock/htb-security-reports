@@ -9,6 +9,7 @@ The reports document the complete attack path, from reconnaissance and enumerati
 | Machine | Focus | Report |
 |---|---|---|
 | **Cap** | IDOR · PCAP Analysis · Credential Reuse · Privilege Escalation | [View Report](./Cap/Cap_Security_Assessment_Report.pdf) |
+| **Valentine** | Heartbleed · SSH Key Recovery · tmux · Privilege Escalation | [View Report](./Valentine/Valentine_Security_Assessment_Report.pdf) |
 
 ## Skills Demonstrated
 
@@ -17,11 +18,13 @@ The reports document the complete attack path, from reconnaissance and enumerati
 - Vulnerability Assessment
 - IDOR Identification & Exploitation
 - PCAP Analysis
+- TLS Vulnerability Analysis
+- Heartbleed Exploitation
 - Credential Analysis
-- Authentication Testing
-- SSH
+- SSH Authentication
 - Linux Privilege Escalation
 - Linux Capabilities
+- tmux Analysis
 - Technical Security Reporting
 
 ---
