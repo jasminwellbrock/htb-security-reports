@@ -28,9 +28,10 @@ Security investigation and DFIR reports based on retired Hack The Box Sherlocks.
 
 Penetration testing and vulnerability assessment reports based on retired Hack The Box Machines.
 
-| Machine | Platform | Focus | Report |
-|---|---|---|---|
-| **Cap** | Hack The Box | IDOR · PCAP Analysis · Credential Reuse · Privilege Escalation | [View Report](./machines/Cap/Cap_Security_Assessment_Report.pdf) |
+| Machine | Focus | Report |
+|---|---|---|
+| **Cap** | IDOR · PCAP Analysis · Credential Reuse · Privilege Escalation | [View Report](./machines/Cap/Cap_Security_Assessment_Report.pdf) |
+| **Valentine** | Heartbleed · SSH Key Recovery · tmux · Privilege Escalation | [View Report](./machines/Valentine/Valentine_Security_Assessment_Report.pdf) |
 
 ## Reporting Approach
 
