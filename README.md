@@ -32,6 +32,7 @@ Penetration testing and vulnerability assessment reports based on retired Hack T
 |---|---|---|
 | **Cap** | IDOR · PCAP Analysis · Credential Reuse · Privilege Escalation | [View Report](./machines/Cap/Cap_Security_Assessment_Report.pdf) |
 | **Valentine** | Heartbleed · SSH Key Recovery · tmux · Privilege Escalation | [View Report](./machines/Valentine/Valentine_Security_Assessment_Report.pdf) |
+| **Curling** | Joomla · Credential Recovery · PHP Execution · Cron Job Exploitation · Privilege Escalation | [View Report](./machines/Curling/Curling_Security_Assessment_Report.pdf) |
 
 ## Reporting Approach
 
