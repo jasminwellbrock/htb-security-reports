@@ -8,6 +8,7 @@ The reports document the complete attack path, from reconnaissance and enumerati
 
 | Machine | Focus | Report |
 |---|---|---|
+| **Access**| Anonymous FTP · Credential Discovery · Telnet · Windows Privilege Escalation | [View Report](./Access/Access_Security_Assessment_Report.pdf) |
 | **Cap** | IDOR · PCAP Analysis · Credential Reuse · Privilege Escalation | [View Report](./Cap/Cap_Security_Assessment_Report.pdf) |
 | **Valentine** | Heartbleed · SSH Key Recovery · tmux · Privilege Escalation | [View Report](./Valentine/Valentine_Security_Assessment_Report.pdf) |
 | **Curling** | Joomla · Credential Recovery · PHP Execution · Cron Job Exploitation · Privilege Escalation | [View Report](./Curling/Curling_Security_Assessment_Report.pdf) |
@@ -27,11 +28,22 @@ The reports document the complete attack path, from reconnaissance and enumerati
 - Heartbleed Exploitation
 - SSH Authentication
 - Archive Reconstruction
+- FTP Enumeration
+- Anonymous FTP Access
+- Backup File Analysis
+- Outlook Mailbox Analysis
+- Telnet Access
 - Linux Enumeration
+- Windows Enumeration
 - Process and Cron Analysis
 - pspy
 - Linux Privilege Escalation
+- Windows Privilege Escalation
 - Linux Capabilities
+- Windows Credential Manager
+- `runas /savecred` Abuse
+- PowerShell Scripting
+- PowerShell Reverse Shells
 - tmux Analysis
 - Technical Security Reporting
 
