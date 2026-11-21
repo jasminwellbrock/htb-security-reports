@@ -18,7 +18,12 @@ The reports document the complete attack path, from reconnaissance and enumerati
 - Network Enumeration
 - Web Application Testing
 - Vulnerability Assessment
+- FTP Enumeration
+- Directory Discovery
 - Joomla Administration
+- Adminer Security Assessment
+- Arbitrary File Read Analysis
+- CVE Research and Validation
 - IDOR Identification & Exploitation
 - PHP Execution
 - Credential Discovery & Analysis
@@ -28,14 +33,17 @@ The reports document the complete attack path, from reconnaissance and enumerati
 - Heartbleed Exploitation
 - SSH Authentication
 - Archive Reconstruction
-- FTP Enumeration
 - Anonymous FTP Access
 - Backup File Analysis
 - Outlook Mailbox Analysis
 - Telnet Access
 - Linux Enumeration
 - Windows Enumeration
+- Sudo Misconfiguration Analysis
 - Process and Cron Analysis
+- Python Import Hijacking
+- Environment Variable Manipulation
+- SUID Exploitation
 - pspy
 - Linux Privilege Escalation
 - Windows Privilege Escalation
