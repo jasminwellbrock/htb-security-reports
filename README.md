@@ -31,6 +31,7 @@ Penetration testing and vulnerability assessment reports based on retired Hack T
 | Machine | Focus | Report |
 |---|---|---|
 | **Access** | Anonymous FTP · Credential Discovery · Telnet · Windows Privilege Escalation | [View Report](./machines/Access/Access_Security_Assessment_Report.pdf) |
+| **Admirer** | Adminer · Arbitrary File Read · Credential Discovery · Python Import Hijacking · Privilege Escalation | [View Report](./machines/Admirer/Admirer_Security_Assessment_Report.pdf) |
 | **Cap** | IDOR · PCAP Analysis · Credential Reuse · Linux Privilege Escalation | [View Report](./machines/Cap/Cap_Security_Assessment_Report.pdf) |
 | **Valentine** | Heartbleed · SSH Key Recovery · tmux · Linux Privilege Escalation | [View Report](./machines/Valentine/Valentine_Security_Assessment_Report.pdf) |
 | **Curling** | Joomla · Credential Recovery · PHP Execution · Cron Job Exploitation · Linux Privilege Escalation | [View Report](./machines/Curling/Curling_Security_Assessment_Report.pdf) |
